@@ -1,0 +1,16 @@
+{
+  "sandbox" : {
+    "endpoint" : "https://987ee4d1b32b3532-sandbox-au.awx.onl",
+    "account" : {
+      "apiKey" : "dc47d025137627f1335f4ae6e7c4763bdb0e3c025d67c46d795546285fbe5717af62492fe24b6d09d6ea16c4cc76aae6",
+      "clientId" : "qlcLwaYkQeKGda0ANpDf0Q"
+    }
+  },
+  "test" : {
+    "endpoint" : "",
+    "account" : {
+      "apiKey" : "",
+      "clientId" : ""
+    }
+  }
+}

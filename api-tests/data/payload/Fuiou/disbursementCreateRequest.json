@@ -1,0 +1,92 @@
+
+    {
+      "beneficiary": {
+        "additionalInfo": {
+          "personalFirstNameInChinese": "莹",
+          "personalIdNumber": "320400198902256375",
+          "personalIdType": "CHINESE_NATIONAL_ID",
+          "personalLastNameInChinese": "王",
+          "personalMobileNumber": "+8613591695000",
+          "personalNationality": "CN"
+        },
+        "address": {
+          "city": "Shenyang",
+          "countryCode": "CN",
+          "postcode": "110000",
+          "state": "Liaoning",
+          "streetAddress": "Huanggu District Lingling North Street, No. 3-6-2"
+        },
+        "bankDetails": {
+          "accountCurrency": "CNY",
+          "accountName": "王莹",
+          "accountNumber": "62270007313600000",
+          "accountRoutingType1": "cnaps",
+          "accountRoutingValue1": "105221019011",
+          "accountRoutingType2": "area_code",
+          "accountRoutingValue2": "1240",
+
+          "bankCountryCode": "CN",
+          "bankName": "China Construction Bank ",
+          "bindingMobileNumber": "+8613591695000"
+        },
+        "entityType": "PERSONAL",
+        "firstName": "",
+        "lastName": "wang"
+      },
+      "disbursementSettleMode": "GUARANTEE_RECEIVABLEY",
+      "messageToBeneficiary": "Amazon settlement",
+      "orderInfo": [
+        {
+          "currency": "CNY",
+          "description": "coffee filter paper holder",
+          "items": [
+            {
+              "category": "goods_trade_online",
+              "itemUrl": " https://www.amazon.com/gp/product/B0786F3QZF",
+              "lineTotal": "5.09",
+              "name": " CB JAPAN Qahwa Trapezoidal coffee filter paper holder",
+              "quantity": "1",
+              "sku": "1211SZCB151",
+              "unitPrice": "5.09"
+            }
+          ],
+          "mchOrderId": "11344152497942654",
+          "mchPurchaserId": "4571347176582",
+          "orderDatetime": 1519608874000,
+          "shipments": [
+            {
+              "provider": "EMS",
+              "trackingNumber": "EG420386995JP"
+            }
+          ]
+        }
+      ],
+      "payer": {
+        "additionalInfo": {
+          "businessArea": "China",
+          "businessPhoneNumber": "+8613591695000",
+          "businessRegistrationExpiryDate": "2020-01-01",
+          "businessRegistrationNumber": " 91-1646000",
+          "businessRegistrationType": "Partnership"
+        },
+        "address": {
+          "city": "Seattle",
+          "countryCode": "US",
+          "postcode": "WA 98108-1226",
+          "state": "Washington",
+          "streetAddress": " Amazon.com, Inc.Customer Service PO Box 81226"
+        },
+        "companyName": " Amazon.com, Inc. ",
+        "entityType": "COMPANY"
+      },
+      "reference": "{\"orderID\":\"9cf80119-8f98-4567-1436-1151665f6a75\",\"stepIdx\":4}",
+      "rpcMode": "Async",
+      "sourceCurrencyCode": "CNY",
+      "targetAmount": 5.09,
+      "targetCurrencyCode": "CNY",
+      "uniqueRequestId": "f5440519-c119-470d-bf71-138f5625a51a",
+      "upstreamSystem": "class com.airwallex.rest.fundflow.services.extapi.DisbursementCPAPIImpl",
+      "paymentReason" : "goods_trade_online"
+
+    }
+

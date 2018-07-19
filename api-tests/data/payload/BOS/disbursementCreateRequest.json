@@ -1,0 +1,49 @@
+{
+  "beneficiary": {
+    "additionalInfo": {
+      "personalFirstNameInChinese": "杰",
+      "personalIdExpiryDate": "2027-08-10",
+      "personalIdNumber": "210104197509209934",
+      "personalIdType": "01",
+      "personalLastNameInChinese": "周",
+      "personalMobileNumber": "13888888888",
+      "personalOccupation": "1A"
+    },
+    "bankDetails": {
+      "accountName": "周杰",
+      "accountNumber": "6228482409533000029",
+      "bankCountryCode": "US",
+      "bindingMobileNumber": "13888888888"
+    },
+    "entityType": "PERSONAL",
+    "firstName": "bella",
+    "lastName": "xiong"
+  },
+  "callbackUrl": "callbackurl",
+  "disbursementSettleMode": "GUARANTEE_RECEIVABLEY",
+  "payer": {
+    "address": {
+      "countryCode": "BL",
+      "fullAddress": "this is full address of payer"
+    },
+    "entityType": "PERSONAL",
+    "firstName": "payerfirstname",
+    "lastName": "payerlastname"
+  },
+  "reference": "bos--0090",
+  "rpcMode": "Sync",
+  "sourceAmount": 700,
+  "sourceCurrencyCode": "USD",
+  "targetAmount": 100.99,
+  "targetCurrencyCode": "CNY",
+  "uniqueRequestId": "e54aeb2d-27af-4337-b4ea-dfa180000090",
+  "upstreamSystem": "class com.airwallex.rest.fundflow.services.extapi.DisbursementCPAPIImpl",
+  "variation": {
+    "railName": "BANK_OF_SHANGHAI",
+    "businessMemo": "101010",
+    "originCountry": "BL",
+    "payerAirwallexId": 1111,
+    "reason": "122",
+    "instAcceptTime": "2017-09-13T18:22:57.192+08:00"
+  }
+}

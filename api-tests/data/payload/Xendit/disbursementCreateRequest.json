@@ -1,0 +1,49 @@
+{
+      "beneficiary" : {
+        "additionalInfo" : {
+          "personalFirstNameInChinese" : "张",
+          "personalIdExpiryDate" : "2027-08-11",
+          "personalIdNumber" : "",
+          "personalIdType" : "01",
+          "personalLastNameInChinese" : "明",
+          "personalMobileNumber" : "13098979711",
+          "personalOccupation" : "1A"
+        },
+        "bankDetails" : {
+          "accountCurrency" : "USD",
+          "accountName" : "Robinia Chad",
+          "accountNumber" : "1111111111",
+          "bankCountryCode" : "US",
+          "bankName" : "BCA",
+          "bindingMobileNumber" : "13098979700"
+        },
+        "entityType" : "PERSONAL",
+        "firstName" : "Samul",
+        "lastName" : "Dirk"
+      },
+      "callbackUrl" : "callbackurl",
+      "disbursementSettleMode" : "PAYUP",
+      "messageToBeneficiary" : "",
+      "payer" : {
+        "address" : {
+          "countryCode" : "US",
+          "fullAddress" : "this is full address of payer"
+        },
+        "entityType" : "PERSONAL",
+        "firstName" : "payerfirstname",
+        "lastName" : "payerlastname"
+      },
+      "reference" : "Xendit-047",
+      "rpcMode" : "Sync",
+      "sourceAmount" : 5.11,
+      "sourceCurrencyCode" : "IDR",
+      "targetAmount" : 7000,
+      "targetCurrencyCode" : "IDR",
+      "uniqueRequestId" : "4511eb2d-27af-4331-45e2-111000000047",
+      "upstreamSystem" : "class com.airwallex.rest.fundflow.services.extapi.DisbursementCPAPIImpl",
+      "variation" : {
+        "railName" : "XENDIT",
+
+        "reason" : "122"
+      }
+    }

@@ -1,0 +1,9 @@
+
+--tags 'not:local'
+#--check-leaks
+--ui bdd
+--timeout 15000
+--recursive
+--reporter mochawesome
+--reporter-options reportDir=results,reportFilename=cn-api-report,overwrite=false,timestamp=yyyymmdd_HHMMss
+

@@ -1,0 +1,46 @@
+{
+  "beneficiary": {
+    "additionalInfo": {
+      "personalIdNumber": "1111111110099099"
+    },
+    "bankDetails": {
+      "accountNumber": "376800000000222",
+      "swiftCode" : "BRINIDJA",
+      "bankCountryCode" : "ID",
+      "accountName" : "Mohamad Ridwan"
+    }
+  },
+  "disbursementSettleMode": "GUARANTEE_RECEIVABLEY",
+  "payer": {
+    "additionalInfo": {
+      "personalIdNumber": "4210111",
+
+      "personalMobileNumber": "",
+      "personalNationality": "US"
+    },
+    "address": {
+      "city" : "Wolftown",
+      "countryCode" : "GG",
+      "postcode" : "32268",
+      "state" : "Arkansas",
+      "streetAddress" : "95151 Kohler Lane"
+    },
+
+    "dateOfBirth": "2018-01-09",
+    "firstName": "abc",
+    "lastName": "Sender"
+
+  },
+  "reference": "{\"orderID\":\"b7d2cf63-dd82-476c-8322-7972da77f036\",\"stepIdx\":4}",
+  "rpcMode": "Async",
+  "sourceCurrencyCode": "USD",
+  "targetAmount": 13,
+  "targetCurrencyCode": "IDR",
+  "uniqueRequestId": "97368efc-9ae9-1442-b326-f5666b777036",
+  "upstreamSystem": "class com.airwallex.rest.fundflow.services.extapi.DisbursementCPAPIImpl",
+  "variation": {
+    "railName": "TRANGLO"
+  },
+  "paymentReason" : "accounting_services"
+
+}

@@ -1,0 +1,394 @@
+[
+  {
+    "currency_pair": "CNYHKD",
+    "invalid_conversion_dates": [
+      {
+        "date": "2017-04-14",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-04-17",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-05-01",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-05-03",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-05-29",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-05-30",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-08-28",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-10-02",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-10-03",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-10-04",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-10-05",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-10-06",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-12-25",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-12-26",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2018-01-01",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2018-02-16",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2018-02-19",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2018-02-20",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2018-02-21",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2018-02-22",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2018-03-30",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2018-04-02",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2018-04-05",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2018-04-06",
+        "reason": "Currency holiday"
+      }
+    ]
+  },
+  {
+    "currency_pair": "AUDHKD",
+    "invalid_conversion_dates": [
+      {
+        "date": "2017-04-14",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-04-17",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-04-25",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-05-01",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-05-03",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-05-29",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-05-30",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-06-12",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-08-07",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-08-28",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-10-02",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-10-05",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-12-25",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-12-26",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2018-01-01",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2018-01-26",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2018-02-16",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2018-02-19",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2018-03-30",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2018-04-02",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2018-04-05",
+        "reason": "Currency holiday"
+      }
+    ]
+  },
+  {
+    "currency_pair": "CNYAUD",
+    "invalid_conversion_dates": [
+      {
+        "date": "2017-04-14",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-04-17",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-04-25",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-05-01",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-05-29",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-05-30",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-06-12",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-08-07",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-08-28",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-10-02",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-10-03",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-10-04",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-10-05",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-10-06",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-12-25",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-12-26",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2018-01-01",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2018-01-26",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2018-02-16",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2018-02-19",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2018-02-20",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2018-02-21",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2018-02-22",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2018-03-30",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2018-04-02",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2018-04-05",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2018-04-06",
+        "reason": "Currency holiday"
+      }
+    ]
+  },
+  {
+    "currency_pair": "AUDUSD",
+    "invalid_conversion_dates": [
+      {
+        "date": "2017-04-14",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-04-17",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-04-25",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-05-01",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-05-29",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-06-12",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-07-04",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-08-07",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-08-28",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-09-04",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-10-02",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-10-09",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-11-23",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-12-25",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2017-12-26",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2018-01-01",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2018-01-15",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2018-01-26",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2018-02-19",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2018-03-30",
+        "reason": "Currency holiday"
+      },
+      {
+        "date": "2018-04-02",
+        "reason": "Currency holiday"
+      }
+    ]
+  }
+]

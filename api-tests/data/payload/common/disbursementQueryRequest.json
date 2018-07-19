@@ -1,0 +1,8 @@
+{
+  "jsonrpc": "2.0",
+  "method": "query",
+  "params": {
+    "reference":"16433eff-6c3e-6f5b-712b-4a5121d5a246"
+  },
+  "id": 3
+}

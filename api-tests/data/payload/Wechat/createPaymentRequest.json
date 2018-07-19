@@ -1,0 +1,21 @@
+{
+  "amount" : {
+    "currency" : "USD",
+    "total" : 0.01
+  },
+  "mch_order_id" : "7fe1bfef23147099e06251aa6280023",
+  "payment_method" : "wc_pos_mqr",
+  "request_id" : "49c5f4fd5-d4e6-404f-9fe8e-84fa30022",
+  "request_time" : "2018-03-01T14:06:00+08:00",
+  "short_description" : "征文short des",
+  "wc_pos_mqr_data" : {
+    "expected_payment_code_return_form" : "URL",
+    "terminal_id" : "f1cd10fb-9c11-4129-bbba-5667b5b98cfb",
+    "terminal_ip" : "122.122.122.221",
+    "product_id": "fdsafasf-123",
+    "sub_open_id": "wxb91c84b6c4fad23021",
+    "open_id": "wxb91c84b6c4fad23021"
+  },
+  "ttl":"800000",
+  "long_description" : "long description"
+}

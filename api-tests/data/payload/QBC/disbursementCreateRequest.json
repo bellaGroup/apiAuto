@@ -1,0 +1,44 @@
+{
+      "beneficiary": {
+        "additionalInfo": {
+          "personalMobileNumber": "021-12341234121"
+        },
+        "address" : {
+          "countryCode" : "JP",
+          "postcode" : "2001-5123ffqq",
+          "fullAddress": "fulladdress中文啊しんきとうろくABC - （ABCD0512* ）"
+        },
+        "bankDetails": {
+          "accountNumber": "123123443",
+          "accountName": "んきとう",
+          "accountRoutingType1": "zengin_code",
+          "accountRoutingValue1": "0000000"
+        },
+        "entityType": "PERSONAL",
+        "firstName": "bene.first name - Given name",
+        "lastName": "bene.last name - Family Name"
+      },
+      "disbursementSettleMode": "GUARANTEE_RECEIVABLEY",
+      "payer": {
+        "address": {
+          "countryCode" : "US",
+          "postcode" : "123",
+          "fullAddress": "fulladdress中文啊しんきとうろくABC - （ABCD0512* ）fulladdress中文啊しんきとうろくABC - （ABCD0512* ）"
+        },
+        "entityType": "PERSONAL",
+        "firstName": "pay.first name - Given name",
+        "lastName": "pay.last name - Family Name"
+      },
+      "reference": "{\"orderID\":\"7532f3bf-a9a7-4918-858d-202ad88b4901\",\"stepIdx\":4}",
+      "rpcMode": "Async",
+      "sourceCurrencyCode": "JPY",
+      "targetCurrencyCode": "JPY",
+      "targetAmount": 132,
+      "uniqueRequestId": "973b8efc-9ae9-1442-b326-f0666b107901",
+      "upstreamSystem": "class com.airwallex.rest.fundflow.services.extapi.DisbursementCPAPIImpl",
+      "paymentReason" : "family maintenance 123 工资",
+      "variation": {
+        "railName": "QBC",
+        "customerId" : "12345678"
+      }
+    }

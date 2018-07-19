@@ -1,0 +1,8 @@
+{
+  "jsonrpc": "2.0",
+  "method": "get",
+  "params": {
+    "currencyPair":"USDCNY"
+  },
+  "id": 3
+}

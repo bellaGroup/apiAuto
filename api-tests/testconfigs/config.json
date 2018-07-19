@@ -1,0 +1,57 @@
+{
+  "endpoints": {
+    "BOS": {
+      "host": "http://192.168.1.200:51080",
+      "baseURL": "http://192.168.1.200:51080"
+    },
+    "ICBC": {
+      "host": "http://192.168.1.200:51080",
+      "baseURL": "http://192.168.1.200:51080"
+    },
+    "Xendit": {
+      "host": "http://localhost:8082",
+      "baseURL": "http://localhost:8082"
+    },
+    "Tranglo": {
+      "host": "http://47.75.71.50:43130",
+      "baseURL": "http://47.75.71.50:43130"
+    },
+    "Wechat": {
+      "host": "https://987ee4d1b32b3532-sandbox-au.awx.onl",
+      "baseURL": "https://987ee4d1b32b3532-sandbox-au.awx.onl",
+      "account" : {
+        "apiKey" : "dc47d025137627f1335f4ae6e7c4763bdb0e3c025d67c46d795546285fbe5717af62492fe24b6d09d6ea16c4cc76aae6",
+        "clientId" : "qlcLwaYkQeKGda0ANpDf0Q"
+      }
+    },
+    "QBC": {
+      "host": "http://47.75.71.50:43121",
+      "baseURL": "http://47.75.71.50:43121"
+    },
+    "Fuiou": {
+      "host": "http://119.23.252.208:31000",
+      "baseURL": "http://119.23.252.208:31000"
+    },
+    "InfoV": {
+      "host": "http://47.75.71.50:20181",
+      "baseURL": "http://47.75.71.50:20181"
+    }
+  },
+
+  "wechatpay": {
+    "login": "/authentication/login",
+    "createPayment": "/payments/create",
+    "cancelPayment": "/payments/cancel/",
+    "listPayments": "/payments",
+    "quote": "/rates/quote",
+    "supportedCurrencies": "/reference/supported_currencies",
+    "invalidConvDates": "/reference/invalid_conversion_dates",
+    "settlementAccounts": "/reference/settlement_accounts",
+    "payment": "/payments/",
+    "updatepayment": "/payments/update/",
+    "conversion": "/conversions",
+    "conversionCreate": "/conversions/create",
+    "balanceCurrent": "/balances/current"
+  }
+
+}

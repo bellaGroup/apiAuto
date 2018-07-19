@@ -1,0 +1,36 @@
+{
+  "name": "cnauto",
+  "version": "1.0.0",
+  "description": "awx china testing automation",
+  "main": "index.js",
+  "scripts": {
+    "clean": "rm -rf results",
+    "test": "mocha --opts  test/mocha.opts test",
+    "BOS": "mocha --opts test/mocha.opts test/BOSTestPlan",
+    "Xendit": "mocha --opts test/mocha.opts test/XenditTestPlan"
+  },
+  "author": "BellaXiong",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "chai": "^4.1.0",
+    "chai-jwt": "^2.0.0",
+    "express": "^4.15.3",
+    "guid": "0.0.12",
+    "jsondiffpatch": "^0.2.4",
+    "jsonwebtoken": "^7.4.1",
+    "lodash": "^4.17.4",
+    "log4js": "^2.3.2",
+    "mocha": "^3.4.2",
+    "mocha-each": "^1.1.0",
+    "moment": "^2.18.1",
+    "promise-delay": "^2.1.0",
+    "q": "^1.5.0",
+    "request": "^2.81.0",
+    "winston": "^2.3.1",
+    "yarn": "^1.0.2"
+  },
+  "devDependencies": {
+    "mochawesome": "^2.3.0"
+  }
+}
